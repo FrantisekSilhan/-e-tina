@@ -24,44 +24,44 @@
 
 - **Díla**:
   - *R.U.R.* (drama, sci-fi): Drama, které zavedlo termín "robot". Zabývá se technikou, lidskostí a vzpourou strojů.
-  - *Válka s Mloky* (epika, román): Alegorie na vzrůstající totalitu a fašismus, varování před nebezpečím bezohledného pokroku.
+  - *Válka s Mloky* (próza, román): Alegorie na vzrůstající totalitu a fašismus, varování před nebezpečím bezohledného pokroku.
   - *Bílá nemoc* (drama, tragédie): Drama reflektující nástup fašismu a ztrátu lidskosti.
 
 #### **Josef Čapek (1887–1945)**
 - **Život**: Starší bratr Karla Čapka, byl malířem, grafikem, spisovatelem. Zemřel v nacistickém koncentračním táboře.
 
 - **Díla**:
-  - *Stín kapradiny* (epika, novela): Novela o dvou mladých mužích, kteří spáchají vraždu a jsou na útěku. Symbolizuje vinu a odplatu.
+  - *Stín kapradiny* (próza, novela): Novela o dvou mladých mužích, kteří spáchají vraždu a jsou na útěku. Symbolizuje vinu a odplatu.
   - *Lelio* (drama, experimentální hra): Experimentální drama, ve kterém autor spojuje různé umělecké formy a zamýšlí se nad otázkami lidské existence, snu a reality.
 
 #### **Jiří Wolker (1900–1924)**
 - **Život**: Básník krátkého života, představitel **proletářské poezie**, který zemřel velmi mladý na tuberkulózu.
 
 - **Díla**:
-  - *Host do domu* (lyrika, sbírka): Básnická sbírka, která oslavuje jednoduchý život, přátelství a solidaritu.
-  - *Těžká hodina* (lyrika, sbírka): Druhá sbírka, kde reflektuje sociální nerovnosti a volá po změně společnosti.
+  - *Host do domu* (poezie, sbírka): Básnická sbírka, která oslavuje jednoduchý život, přátelství a solidaritu.
+  - *Těžká hodina* (poezie, sbírka): Druhá sbírka, kde reflektuje sociální nerovnosti a volá po změně společnosti.
 
 #### **Vítězslav Nezval (1900–1958)**
 - **Život**: Jeden z nejvýznamnějších představitelů avantgardy, spoluzakladatel **poetismu** a později českého **surrealismu**. Experimentoval s formou a jazykem, v jeho díle lze nalézt prvky hravosti a fantazie.
 
 - **Díla**:
-  - *Pantomima* (lyrika, sbírka): První básnická sbírka spojená s poetismem, která kombinuje hravé motivy a inspiraci z cirkusu a divadla.
-  - *Básně noci* (lyrika, sbírka): Sbírka obsahující známé básně jako *Edison*, kde Nezval propojuje moderní civilizaci, techniku a lidský osud.
+  - *Pantomima* (poezie, sbírka): První básnická sbírka spojená s poetismem, která kombinuje hravé motivy a inspiraci z cirkusu a divadla.
+  - *Básně noci* (poezie, sbírka): Sbírka obsahující známé básně jako *Edison*, kde Nezval propojuje moderní civilizaci, techniku a lidský osud.
 
 #### **Jaroslav Seifert (1901–1986)**
 - **Život**: Básník a novinář, později nositel **Nobelovy ceny za literaturu** (1984). Z proletářské poezie postupně přešel k osobnější a intimní lyrice, a jeho tvorba se vyznačuje bohatou obrazností a citovou hloubkou.
 
 - **Díla**:
-  - *Na vlnách TSF* (lyrika, sbírka): Sbírka inspirovaná technickými vynálezy a rozhlasem (TSF - telegrafie bez drátů), zachycuje Seifertovu fascinaci moderní dobou a technologií.
-  - *Jablko z klína* (lyrika, sbírka): Sbírka, která spojuje osobní vzpomínky na dětství a mládí s hlubokými existenciálními úvahami, plná lyrického jazyka.
-  - *Jaro, sbohem* (lyrika, sbírka): Sbírka z období přelomu, která nese stopy melancholie a odráží rozloučení s mládím a ideály.
+  - *Na vlnách TSF* (poezie, sbírka): Sbírka inspirovaná technickými vynálezy a rozhlasem (TSF - telegrafie bez drátů), zachycuje Seifertovu fascinaci moderní dobou a technologií.
+  - *Jablko z klína* (poezie, sbírka): Sbírka, která spojuje osobní vzpomínky na dětství a mládí s hlubokými existenciálními úvahami, plná lyrického jazyka.
+  - *Jaro, sbohem* (poezie, sbírka): Sbírka z období přelomu, která nese stopy melancholie a odráží rozloučení s mládím a ideály.
 
 #### **Vladislav Vančura (1891–1942)**
 - **Život**: Lékař a prozaik, experimentoval s jazykem a stylem. Byl aktivní ve **levicových** kruzích a za svou činnost byl popraven nacisty.
 
 - **Díla**:
-  - *Rozmarné léto* (epika, novela): Poetická a humorná novela o třech přátelích prožívajících klidné letní dny v lázních, jejichž poklid naruší příchod cirkusu.
-  - *Markéta Lazarová* (epika, historický román): Historický román, vyznačující se jazykovou i obrazovou bohatostí, který líčí život lapků a násilí ve středověku.
+  - *Rozmarné léto* (próza, novela): Poetická a humorná novela o třech přátelích prožívajících klidné letní dny v lázních, jejichž poklid naruší příchod cirkusu.
+  - *Markéta Lazarová* (próza, historický román): Historický román, vyznačující se jazykovou i obrazovou bohatostí, který líčí život lapků a násilí ve středověku.
 
 #### **Karel Poláček (1892–1945)**
 - **Život**: Spisovatel a novinář židovského pů
@@ -69,18 +69,18 @@
 vodu, jehož díla se vyznačují humorem a kritickým pohledem na maloměšťáckou společnost. Zahynul v koncentračním táboře.
 
 - **Díla**:
-  - *Bylo nás pět* (epika, humoristický román): Humorná vzpomínková kniha o dětství v malém městě z pohledu malého chlapce, která kriticky nahlíží na maloměšťácký život.
+  - *Bylo nás pět* (próza, humoristický román): Humorná vzpomínková kniha o dětství v malém městě z pohledu malého chlapce, která kriticky nahlíží na maloměšťácký život.
 
 #### **Ivan Olbracht (1882–1952)**
 - **Život**: Prozaik a novinář, syn spisovatele **Antala Staška**. Jeho díla jsou často ovlivněna levicovými a sociálními tématy.
 
 - **Díla**:
-  - *Nikola Šuhaj loupežník* (epika, baladický román): Baladický román o legendárním karpatském zbojníkovi, který bojuje proti útlaku chudých lidí.
-  - *Golet v údolí* (epika, povídky): Povídky o životě ortodoxní židovské komunity na Podkarpatské Rusi.
+  - *Nikola Šuhaj loupežník* (próza, baladický román): Baladický román o legendárním karpatském zbojníkovi, který bojuje proti útlaku chudých lidí.
+  - *Golet v údolí* (próza, povídky): Povídky o životě ortodoxní židovské komunity na Podkarpatské Rusi.
 
 #### **Franz Kafka (1883–1924)**
 - **Život**: Německy píšící pražský spisovatel židovského původu, jeho díla se vyznačují existencialismem a absurditou. Kafka za svého života vydal jen málo svých textů, mnoho z nich vyšlo posmrtně.
 
 - **Díla**:
-  - *Proces* (epika, román): Příběh muže, který je náhle zatčen a obviněn z neznámého zločinu. Tematizuje absurditu moderní byrokracie a pocit odcizení.
-  - *Zámek* (epika, román): Nedokončený román, kde hlavní postava marně usiluje o přístup k zámku, který symbolizuje nedosažitelnou autoritu.
+  - *Proces* (próza, román): Příběh muže, který je náhle zatčen a obviněn z neznámého zločinu. Tematizuje absurditu moderní byrokracie a pocit odcizení.
+  - *Zámek* (próza, román): Nedokončený román, kde hlavní postava marně usiluje o přístup k zámku, který symbolizuje nedosažitelnou autoritu.
